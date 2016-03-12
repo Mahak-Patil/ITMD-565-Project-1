@@ -1,0 +1,47 @@
+.btn {
+    width:170px;
+    }
+    
+.btn-responsive {
+    white-space: normal;
+    
+}
+
+h2{
+    
+    text-decoration: underline;
+}
+h3{
+   font-family: "Myriad Web",Verdana,Helvetica,Arial,sans-serif;
+    text-align: center;
+}
+p{
+    
+    text-align: center;
+}
+    
+
+body {
+  padding-top: 70px;
+  background-image: url(../img/image-1.jpg);
+  background-size: cover;
+}
+
+
+.notetitle {
+    cursor:pointer;
+}
+
+#noteForm {
+	display: none;
+}
+
+
+.table {
+  
+  font-size : 110%;  
+  padding-top: 10%; 
+  width: 80%;
+  font-family : "Myriad Web",Verdana,Helvetica,Arial,sans-serif;
+}
+
